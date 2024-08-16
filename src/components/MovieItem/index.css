@@ -1,0 +1,32 @@
+.carorsel-img {
+  margin: 0px;
+  border: 1px solid transparent;
+}
+
+.react-player-card {
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.popup-modal-container {
+  padding: 2% 4%;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.popup-modal-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  border: none !important;
+  font-size: 1vw;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

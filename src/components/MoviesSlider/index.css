@@ -1,0 +1,20 @@
+.slider-heading {
+  color: #ffffff;
+  margin: 0px;
+  font-size: 2vw;
+}
+
+.carousel-slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 2%;
+}
+
+.slider {
+  display: flex;
+  padding: 1%;
+  padding-left: 4%;
+  justify-content: center;
+}
